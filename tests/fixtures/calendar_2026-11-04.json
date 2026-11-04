@@ -1,0 +1,3073 @@
+{
+ "name": "EarlyON Program Calendar2026",
+ "time_zone": "America/Toronto",
+ "categories": [
+  {
+   "id": 95256,
+   "name": "Morning Indoor Program"
+  },
+  {
+   "id": 95261,
+   "name": "Afternoon Indoor Program"
+  },
+  {
+   "id": 95258,
+   "name": "Wildwood Outdoor Program"
+  },
+  {
+   "id": 95469,
+   "name": "Evening Program"
+  },
+  {
+   "id": 95259,
+   "name": "CLOSURES"
+  },
+  {
+   "id": 101042,
+   "name": "Pop Up Program/Event"
+  },
+  {
+   "id": 102657,
+   "name": "Morning Outdoor"
+  }
+ ],
+ "events": [
+  {
+   "id": 3974931,
+   "title": "St. Joseph EarlyON Program",
+   "start": "2025-09-01T09:35",
+   "end": "2025-09-01T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": [
+     "2",
+     "3",
+     "4"
+    ],
+    "end": "2026-09-13",
+    "interval": "1",
+    "exclude": [
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-01-04",
+     "2026-02-16",
+     "2025-12-23",
+     "2026-01-05",
+     "2026-01-06",
+     "2026-01-07",
+     "2026-01-15",
+     "2026-01-19",
+     "2026-04-06",
+     "2026-01-21",
+     "2026-01-22",
+     "2026-01-26",
+     "2026-02-20",
+     "2026-02-25",
+     "2026-04-03",
+     "2026-03-10",
+     "2026-04-21",
+     "2026-03-27",
+     "2026-04-23",
+     "2026-06-03",
+     "2026-05-18",
+     "2026-05-19",
+     "2026-08-03",
+     "2026-07-01",
+     "2026-05-29",
+     "2026-08-12",
+     "2026-08-13",
+     "2026-08-18",
+     "2026-08-19",
+     "2026-08-20",
+     "2026-08-21",
+     "2026-08-22",
+     "2026-09-07",
+     "2026-09-09",
+     "2026-08-25"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3404653,
+   "title": "Frankford EarlyON Program",
+   "start": "2025-10-01T10:00",
+   "end": "2025-10-01T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Frankford Public School",
+    "address": "36 Adelaide St, Quinte West, ON K0K 2C0, Canada",
+    "lat": 44.2041365,
+    "lng": -77.5990351
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-12",
+    "interval": "1",
+    "exclude": [
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-01-07",
+     "2026-04-20",
+     "2026-01-21",
+     "2026-02-25",
+     "2026-03-18",
+     "2026-06-03",
+     "2026-08-03",
+     "2026-07-01",
+     "2026-08-26",
+     "2026-09-09"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3404594,
+   "title": "Marmora EarlyON Program",
+   "start": "2025-10-03T09:30",
+   "end": "2025-10-03T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Marmora Pentecostal Church",
+    "address": "53 Madoc St, Marmora, ON K0K 2M0, Canada",
+    "lat": 44.486661,
+    "lng": -77.678112
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-13",
+    "interval": "1",
+    "exclude": [
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-02-20",
+     "2026-04-03",
+     "2026-03-20",
+     "2026-06-03",
+     "2026-06-12",
+     "2026-07-03",
+     "2026-08-14"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3404449,
+   "title": "Deseronto EarlyON Program",
+   "start": "2025-10-06T09:30",
+   "end": "2025-10-06T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Deseronto Public School",
+    "address": "385 Stanley Ave, Deseronto, ON K0K 1X0, Canada",
+    "lat": 44.1993533,
+    "lng": -77.0484318
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-01",
+    "interval": "1",
+    "exclude": [
+     "2025-12-22",
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-02-16",
+     "2025-12-18",
+     "2026-01-05",
+     "2026-01-15",
+     "2026-01-19",
+     "2026-04-06",
+     "2026-01-22",
+     "2026-01-26",
+     "2026-02-12",
+     "2026-03-16",
+     "2026-03-19",
+     "2026-03-26",
+     "2026-06-03",
+     "2026-05-18",
+     "2026-08-03",
+     "2026-09-07",
+     "2026-10-12",
+     "2026-08-24"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3410323,
+   "title": "Madoc EarlyON",
+   "start": "2025-10-06T09:30",
+   "end": "2025-10-06T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Madoc Wesleyan & Free Methodist Church",
+    "address": "137 Elgin St, Madoc, ON K0K 2K0, Canada",
+    "lat": 44.5050447,
+    "lng": -77.46735559999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-08",
+    "interval": "1",
+    "exclude": [
+     "2025-12-15",
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-02-16",
+     "2026-01-05",
+     "2026-01-19",
+     "2026-04-06",
+     "2026-01-26",
+     "2026-06-03",
+     "2026-05-18",
+     "2026-05-11",
+     "2026-06-08",
+     "2026-07-13",
+     "2026-08-10",
+     "2026-09-14",
+     "2026-08-03",
+     "2026-06-15",
+     "2026-09-07",
+     "2026-10-12",
+     "2026-08-31"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3410347,
+   "title": "Groove & Go EarlyON",
+   "start": "2025-10-07T09:30",
+   "end": "2025-10-07T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Salvation Army Church",
+    "address": "290 Bridge St W, Belleville, ON K8P 4T8, Canada",
+    "lat": 44.1600975,
+    "lng": -77.4064503
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": [
+     "2",
+     "5"
+    ],
+    "end": "2026-09-12",
+    "interval": "1",
+    "exclude": [
+     "2026-02-06",
+     "2026-02-20",
+     "2026-04-03",
+     "2026-04-14"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3410643,
+   "title": "Trent River EarlyON",
+   "start": "2025-10-07T09:30",
+   "end": "2025-10-07T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Trent River Public School",
+    "address": "84 Dixon Dr, Trenton, ON K8V 1W6, Canada",
+    "lat": 44.1099348,
+    "lng": -77.5761225
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": [
+     "4"
+    ],
+    "end": "2026-09-12",
+    "interval": "1",
+    "exclude": [
+     "2025-12-23",
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-01-06",
+     "2026-01-15",
+     "2026-01-22",
+     "2026-03-17",
+     "2026-03-19",
+     "2026-06-03",
+     "2026-05-14",
+     "2026-07-01",
+     "2026-08-03",
+     "2026-08-27"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3413649,
+   "title": "Wildwood @ Batawa Dino Dig",
+   "start": "2025-10-07T09:30",
+   "end": "2025-10-07T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Dino Dig @ Batawa",
+    "address": "99 Ski Club Ln, Batawa, ON K0K 1E0, Canada",
+    "lat": 44.16674010000001,
+    "lng": -77.5969538
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-09",
+    "interval": "1",
+    "exclude": [
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2025-12-23",
+     "2026-01-06",
+     "2026-02-24",
+     "2026-03-17",
+     "2026-06-03",
+     "2026-08-03",
+     "2026-07-14"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3413963,
+   "title": "Tweed Gateway EarlyON",
+   "start": "2025-10-07T09:30",
+   "end": "2025-10-07T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Gateway Community Health Centre",
+    "address": "41 McClellan St, Tweed, ON K0K 3J0, Canada",
+    "lat": 44.4748525,
+    "lng": -77.3155204
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-09",
+    "interval": "1",
+    "exclude": [
+     "2025-12-23",
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-01-06",
+     "2026-02-10",
+     "2026-03-17",
+     "2026-04-07",
+     "2026-08-03"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3413627,
+   "title": "Tales On The Trails (Potters Creek)",
+   "start": "2025-10-08T09:30",
+   "end": "2025-10-08T11:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "South Potters Creek Conservation Area",
+    "address": "2061 Old Highway 2, Belleville, ON K8N 4Z2, Canada",
+    "lat": 44.1389113,
+    "lng": -77.4296607
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-12",
+    "interval": "1",
+    "exclude": [
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2025-12-24",
+     "2026-01-07",
+     "2026-01-16",
+     "2026-01-21",
+     "2026-02-25",
+     "2026-03-11",
+     "2026-03-27",
+     "2026-06-03",
+     "2026-08-03",
+     "2026-07-01",
+     "2026-07-15",
+     "2026-09-09",
+     "2026-09-02"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3413955,
+   "title": "Wildwood @ H.R. Frink",
+   "start": "2025-10-09T09:30",
+   "end": "2025-10-09T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "H.R. Frink Centre",
+    "address": "381 Thrasher Rd, Plainfield, ON K0K 2V0, Canada",
+    "lat": 44.2787724,
+    "lng": -77.3410569
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-12",
+    "interval": "1",
+    "exclude": [
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-01-15",
+     "2026-01-22",
+     "2026-01-29",
+     "2026-06-03",
+     "2026-07-01",
+     "2026-08-03",
+     "2026-06-18",
+     "2026-07-02",
+     "2026-07-16",
+     "2026-09-03",
+     "2026-09-10"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3414010,
+   "title": "Trenton Baby Club",
+   "start": "2025-10-09T10:00",
+   "end": "2025-10-09T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Trent River Public School",
+    "address": "84 Dixon Dr, Trenton, ON K8V 1W6, Canada",
+    "lat": 44.1099348,
+    "lng": -77.5761225
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-12",
+    "interval": "1",
+    "exclude": [
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-01-15",
+     "2026-01-22",
+     "2026-03-19",
+     "2026-06-03",
+     "2026-05-14",
+     "2026-07-01",
+     "2026-08-03",
+     "2026-07-02",
+     "2026-08-27"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3413987,
+   "title": "Daddy N Me",
+   "start": "2025-10-14T16:30",
+   "end": "2025-10-14T19:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-06-30",
+    "interval": "1",
+    "exclude": [
+     "2025-12-23",
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-01-06",
+     "2026-01-20",
+     "2026-02-03",
+     "2026-02-17",
+     "2026-03-03",
+     "2026-03-17",
+     "2026-03-31",
+     "2025-12-02",
+     "2025-12-16",
+     "2026-01-27",
+     "2026-04-07",
+     "2026-04-21",
+     "2026-05-05",
+     "2026-05-19",
+     "2026-06-02",
+     "2026-06-16",
+     "2026-06-30"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95469,
+     "name": "Evening Program"
+    }
+   ]
+  },
+  {
+   "id": 3449190,
+   "title": "Wildwood @ South Potters",
+   "start": "2025-10-31T09:30",
+   "end": "2025-10-31T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "South Potters Creek Conservation Area",
+    "address": "2056 Old Highway 2, Belleville, ON K8N 4Z2, Canada",
+    "lat": 44.1385474,
+    "lng": -77.4294171
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-13",
+    "interval": "1",
+    "exclude": [
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2025-12-19",
+     "2026-01-16",
+     "2026-02-20",
+     "2026-04-03",
+     "2026-03-27",
+     "2026-06-03",
+     "2026-07-03",
+     "2026-08-22",
+     "2026-08-21",
+     "2026-11-20"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3450129,
+   "title": "Salvation Army",
+   "start": "2025-11-18T09:30",
+   "end": "2025-11-18T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Salvation Army Church",
+    "address": "290 Bridge St W, Belleville, ON K8P 4T8, Canada",
+    "lat": 44.1600975,
+    "lng": -77.4064503
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": [
+     "5"
+    ],
+    "end": "2026-02-05",
+    "interval": "1",
+    "exclude": [
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2026-01-03",
+     "2026-04-14"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3455347,
+   "title": "Wildwood Saturday",
+   "start": "2025-11-29T09:30",
+   "end": "2025-11-29T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "South Potters Creek Conservation Area",
+    "address": "2056 Old Hwy 2, Belleville",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "2",
+    "end": "2025-11-29",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3502258,
+   "title": "Wildwood Saturdays",
+   "start": "2025-11-29T09:30",
+   "end": "2025-11-29T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "South Potters Creek Conservation Area",
+    "address": "2056 Old Highway 2, Cannifton, ON K8N 4Z2, Canada",
+    "lat": 44.1380937,
+    "lng": -77.4300774
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "3",
+    "end": "2026-08-31",
+    "interval": "1",
+    "exclude": [
+     "2025-12-27"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3501371,
+   "title": "St. Joseph Saturday",
+   "start": "2025-12-13T09:35",
+   "end": "2025-12-13T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "1",
+    "end": "2026-07-01",
+    "interval": "1",
+    "exclude": [
+     "2026-02-14"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3404475,
+   "title": "Family Space Christmas Closure",
+   "start": "2025-12-24T08:30",
+   "end": "2026-01-02T16:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 3626634,
+   "title": "Infant Massage - Belleville",
+   "start": "2026-01-22T13:30",
+   "end": "2026-01-22T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-02-20",
+    "interval": "1",
+    "exclude": [
+     "2026-01-22"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3563336,
+   "title": "ASQ Connection - 1-4pm",
+   "start": "2026-01-26T13:00",
+   "end": "2026-01-26T16:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Day",
+    "advanced": "",
+    "end": "2026-01-27",
+    "interval": "1",
+    "exclude": [
+     "2026-01-26",
+     "2026-01-27"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3624240,
+   "title": "ASQ Connection - 1-4pm",
+   "start": "2026-02-03T13:00",
+   "end": "2026-02-03T16:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Gateway Community Health Centre",
+    "address": "41 McClellan St, Tweed, ON K0K 3J0, Canada",
+    "lat": 44.4748525,
+    "lng": -77.3155204
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3619822,
+   "title": "Tweed Baby Club",
+   "start": "2026-02-10T13:30",
+   "end": "2026-02-10T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Gateway Community Health Centre",
+    "address": "41 McClellan St, Tweed, ON K0K 3J0, Canada",
+    "lat": 44.4748525,
+    "lng": -77.3155204
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-12",
+    "interval": "1",
+    "exclude": [
+     "2026-02-10",
+     "2026-08-03"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3663099,
+   "title": "Deseronto Library Event",
+   "start": "2026-02-12T10:00",
+   "end": "2026-02-12T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Deseronto Public Library",
+    "address": "358 Main St, Deseronto, ON K0K 1X0, Canada",
+    "lat": 44.1953386,
+    "lng": -77.0473777
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3502216,
+   "title": "STAT HOLIDAY - ALL PROGRAMS CLOSED",
+   "start": "2026-02-16",
+   "end": "2026-02-16",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 3573115,
+   "title": "Programs Cancelled",
+   "start": "2026-02-25T09:00",
+   "end": "2026-02-25T16:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "All EarlyON Programs & Office Location Closed",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 3690110,
+   "title": "Tweed Public Library Event",
+   "start": "2026-03-17T10:00",
+   "end": "2026-03-17T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Tweed Public Library",
+    "address": "230 Metcalf St, Tweed, ON K0K 3J0, Canada",
+    "lat": 44.4763629,
+    "lng": -77.3139144
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3526916,
+   "title": "Infant Massage - Belleville",
+   "start": "2026-03-26T13:30",
+   "end": "2026-03-26T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-04-24",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3709016,
+   "title": "ASQ Connection - 1-4pm",
+   "start": "2026-03-30T13:00",
+   "end": "2026-03-30T16:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph EarlyON Program",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689759,
+    "lng": -77.3592142
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3707324,
+   "title": "STAT HOLIDAY - ALL PROGRAMS CLOSED",
+   "start": "2026-04-03",
+   "end": "2026-04-03",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 3626581,
+   "title": "STAT HOLIDAY - ALL EARLYON PROGRAMS CLOSED",
+   "start": "2026-04-06",
+   "end": "2026-04-06",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 3703407,
+   "title": "Deseronto Library Pop Up Event",
+   "start": "2026-04-23T10:00",
+   "end": "2026-04-23T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Deseronto Public Library",
+    "address": "358 Main St, Deseronto, ON K0K 1X0, Canada",
+    "lat": 44.1953386,
+    "lng": -77.0473777
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 101042,
+     "name": "Pop Up Program/Event"
+    }
+   ]
+  },
+  {
+   "id": 3776183,
+   "title": "ASQ Connection - 1-4pm",
+   "start": "2026-04-27T13:00",
+   "end": "2026-04-27T16:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph EarlyON Program",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3776203,
+   "title": "Infant Massage - Deseronto",
+   "start": "2026-05-07T13:30",
+   "end": "2026-05-07T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Deseronto Public Library",
+    "address": "358 Main St, Deseronto, ON K0K 1X0, Canada",
+    "lat": 44.1953386,
+    "lng": -77.0473777
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-06-05",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3803326,
+   "title": "O'Hara Mill Homestead Pop Up",
+   "start": "2026-05-11T09:30",
+   "end": "2026-05-11T11:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "O'Hara Mill Homestead",
+    "address": "638 Mill Rd, Madoc, ON K0K 2K0, Canada",
+    "lat": 44.5164621,
+    "lng": -77.5265781
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "1",
+    "end": "2026-09-15",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 102657,
+     "name": "Morning Outdoor"
+    }
+   ]
+  },
+  {
+   "id": 3747050,
+   "title": "STAT HOLIDAY - ALL PROGRAMS CLOSED",
+   "start": "2026-05-18",
+   "end": "2026-05-18",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 3800709,
+   "title": "Little Gardeners",
+   "start": "2026-05-25T09:30",
+   "end": "2026-05-25T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Salvation Army Church",
+    "address": "290 Bridge St. West, Belleville, ON",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-29",
+    "interval": "1",
+    "exclude": [
+     "2026-08-03",
+     "2026-09-07",
+     "2026-08-24",
+     "2026-09-21"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 102657,
+     "name": "Morning Outdoor"
+    }
+   ]
+  },
+  {
+   "id": 3796255,
+   "title": "All EarlyON Programs Closed",
+   "start": "2026-06-03",
+   "end": "2026-06-03",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 3845744,
+   "title": "Outdoor Infant Massage",
+   "start": "2026-06-15T09:30",
+   "end": "2026-06-15T11:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Kids Mondo Learning Centre",
+    "address": "Quinte West, ON K8N 4Z2, Canada",
+    "lat": 44.13797479999999,
+    "lng": -77.42942169999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-07-14",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 102657,
+     "name": "Morning Outdoor"
+    }
+   ]
+  },
+  {
+   "id": 3828247,
+   "title": "ASQ Connection - 1-4pm",
+   "start": "2026-06-22T13:00",
+   "end": "2026-06-22T16:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph EarlyON Program",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3502182,
+   "title": "St. Joseph EarlyON (Afternoons)",
+   "start": "2026-06-30T13:30",
+   "end": "2026-06-30T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-12",
+    "interval": "1",
+    "exclude": [
+     "2025-12-25",
+     "2025-12-26",
+     "2025-12-27",
+     "2025-12-28",
+     "2025-12-29",
+     "2025-12-30",
+     "2025-12-31",
+     "2026-01-01",
+     "2026-01-02",
+     "2025-12-16",
+     "2025-12-23",
+     "2026-08-03",
+     "2026-08-18",
+     "2026-08-19",
+     "2026-08-20",
+     "2026-08-21",
+     "2026-08-22",
+     "2026-08-25"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3747051,
+   "title": "STAT HOLIDAY - ALL PROGRAMS CLOSED",
+   "start": "2026-07-01",
+   "end": "2026-07-01",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 3828251,
+   "title": "ASQ Connection - 1-4pm",
+   "start": "2026-07-20T13:00",
+   "end": "2026-07-20T16:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph EarlyON Program",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3747052,
+   "title": "STAT HOLIDAY - ALL PROGRAMS CLOSED",
+   "start": "2026-08-03",
+   "end": "2026-08-03",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 3971582,
+   "title": "Marmora Pop Up At The Park",
+   "start": "2026-08-14T09:30",
+   "end": "2026-08-14T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Marmora Park",
+    "address": "9 Matthew St, Marmora, ON K0K 2M0, Canada",
+    "lat": 44.4822845,
+    "lng": -77.6842398
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3974926,
+   "title": "Baby Club Hikers",
+   "start": "2026-08-19T13:30",
+   "end": "2026-08-19T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "South Potter's Creek Conservation Area",
+    "address": "2056 Old Highway 2, Belleville, ON K8N 4Z2, Canada",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3983346,
+   "title": "Belleville Baby Club",
+   "start": "2026-08-19T13:30",
+   "end": "2026-08-19T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689759,
+    "lng": -77.3592142
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-12",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-09-09",
+     "2026-08-26"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3747054,
+   "title": "STAT HOLIDAY - ALL PROGRAMS CLOSED",
+   "start": "2026-09-07",
+   "end": "2026-09-07",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 4023014,
+   "title": "Daddy N Me Kick Off Event",
+   "start": "2026-09-08T16:30",
+   "end": "2026-09-08T19:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Children's Safety Village",
+    "address": "Entrance off of, 129 S John St, Belleville, ON K8N 5J8, Canada",
+    "lat": 44.1613883,
+    "lng": -77.3777923
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95469,
+     "name": "Evening Program"
+    }
+   ]
+  },
+  {
+   "id": 3983078,
+   "title": "Daddy N Me.",
+   "start": "2026-09-08T16:30",
+   "end": "2026-09-08T19:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-09-10",
+    "interval": "1",
+    "exclude": [
+     "2026-09-08"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95469,
+     "name": "Evening Program"
+    }
+   ]
+  },
+  {
+   "id": 3982846,
+   "title": "All EarlyON Programs Closed",
+   "start": "2026-09-09",
+   "end": "2026-09-09",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 3966353,
+   "title": "Touch A Truck",
+   "start": "2026-09-12T12:00",
+   "end": "2026-09-12T13:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "10 Bay Bridge Rd, Belleville, ON K8P 3P6, Canada",
+    "lat": 44.15310909999999,
+    "lng": -77.38888879999999
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": []
+  },
+  {
+   "id": 3982833,
+   "title": "Deseronto EarlyON Program.",
+   "start": "2026-09-14T09:30",
+   "end": "2026-09-14T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Deseronto Public School",
+    "address": "385 Stanley Ave, Deseronto, ON K0K 1X0, Canada",
+    "lat": 44.1993533,
+    "lng": -77.0484318
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": [
+     "4",
+     "1"
+    ],
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-09-17",
+     "2026-10-26"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3982837,
+   "title": "Trent River EarlyON.",
+   "start": "2026-09-14T09:30",
+   "end": "2026-09-14T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Trent River Public School",
+    "address": "84 Dixon Dr, Trenton, ON K8V 1W6, Canada",
+    "lat": 44.1099348,
+    "lng": -77.5761225
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": [
+     "4",
+     "1"
+    ],
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [
+     "2026-08-27",
+     "2026-09-07",
+     "2026-10-12",
+     "2026-10-26"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3982985,
+   "title": "Madoc EarlyON.",
+   "start": "2026-09-14T09:30",
+   "end": "2026-09-14T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Madoc Wesleyan & Free Methodist Church",
+    "address": "137 Elgin St, Madoc, ON K0K 2K0, Canada",
+    "lat": 44.5050447,
+    "lng": -77.46735559999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-09-14"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3404523,
+   "title": "St. Joseph EarlyON Program.",
+   "start": "2026-09-14T09:35",
+   "end": "2026-09-14T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "end": "2026-12-23",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-09-24",
+     "2026-10-01",
+     "2026-10-06",
+     "2026-11-20",
+     "2026-10-14",
+     "2026-11-04",
+     "2026-11-11",
+     "2026-11-18",
+     "2026-11-25",
+     "2026-12-02",
+     "2026-12-09",
+     "2026-12-16",
+     "2026-12-23",
+     "2026-12-30",
+     "2026-11-03"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3930784,
+   "title": "Infant Massage - Madoc",
+   "start": "2026-09-14T13:30",
+   "end": "2026-09-14T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Madoc Wesleyan Church",
+    "address": "137 Elgin St, Madoc, ON K0K 2K0, Canada",
+    "lat": 44.5051981,
+    "lng": -77.4673921
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-10-20",
+    "interval": "1",
+    "exclude": [
+     "2026-10-12"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3982999,
+   "title": "Tweed Gateway EarlyON.",
+   "start": "2026-09-15T09:30",
+   "end": "2026-09-15T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Gateway Community Health Centre",
+    "address": "41 McClellan St, Tweed, ON K0K 3J0, Canada",
+    "lat": 44.4748525,
+    "lng": -77.3155204
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-23",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-10-27"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3983007,
+   "title": "Groove & Go EarlyON.",
+   "start": "2026-09-15T09:30",
+   "end": "2026-09-15T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Salvation Army Church",
+    "address": "290 Bridge St W, Belleville, ON K8P 4T8, Canada",
+    "lat": 44.1600975,
+    "lng": -77.4064503
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": [
+     "2",
+     "5"
+    ],
+    "end": "2026-12-23",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-11-20",
+     "2026-10-23"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3983013,
+   "title": "Wildwood @ Batawa Dino Dig.",
+   "start": "2026-09-15T09:30",
+   "end": "2026-09-15T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Dino Dig @ Batawa",
+    "address": "99 Ski Club Ln, Batawa, ON K0K 1E0, Canada",
+    "lat": 44.16674010000001,
+    "lng": -77.5969538
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-10-13"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3983049,
+   "title": "Tweed Baby Club.",
+   "start": "2026-09-15T13:30",
+   "end": "2026-09-15T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Gateway Community Health Centre",
+    "address": "41 McClellan St, Tweed, ON K0K 3J0, Canada",
+    "lat": 44.4748525,
+    "lng": -77.3155204
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3983015,
+   "title": "Tales On The Trails (Potters Creek).",
+   "start": "2026-09-16T09:30",
+   "end": "2026-09-16T11:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "South Potters Creek Conservation Area",
+    "address": "2061 Old Highway 2, Belleville, ON K8N 4Z2, Canada",
+    "lat": 44.1389113,
+    "lng": -77.4296607
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3983003,
+   "title": "Frankford EarlyON Program.",
+   "start": "2026-09-16T10:00",
+   "end": "2026-09-16T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Frankford Public School",
+    "address": "36 Adelaide St, Quinte West, ON K0K 2C0, Canada",
+    "lat": 44.2041365,
+    "lng": -77.5990351
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-25",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3404556,
+   "title": "Belleville Baby Club.",
+   "start": "2026-09-16T13:30",
+   "end": "2026-09-16T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689759,
+    "lng": -77.3592142
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-09-09"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3983017,
+   "title": "Wildwood @ H.R. Frink.",
+   "start": "2026-09-17T09:30",
+   "end": "2026-09-17T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "H.R. Frink Centre",
+    "address": "381 Thrasher Rd, Plainfield, ON K0K 2V0, Canada",
+    "lat": 44.2787724,
+    "lng": -77.3410569
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-09-17",
+     "2026-09-24"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3983065,
+   "title": "Trenton Baby Club.",
+   "start": "2026-09-17T10:00",
+   "end": "2026-09-17T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Trent River Public School",
+    "address": "84 Dixon Dr, Trenton, ON K8V 1W6, Canada",
+    "lat": 44.1099348,
+    "lng": -77.5761225
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 4056185,
+   "title": "Deseronto Library Event",
+   "start": "2026-09-17T10:00",
+   "end": "2026-09-17T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Deseronto Public Library",
+    "address": "358 Main St, Deseronto, ON K0K 1X0, Canada",
+    "lat": 44.1953386,
+    "lng": -77.0473777
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3414023,
+   "title": "St. Joseph EarlyON (Evening)",
+   "start": "2026-09-17T16:30",
+   "end": "2026-09-17T19:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "1",
+    "end": "2026-12-19",
+    "interval": "1",
+    "exclude": [
+     "2026-11-20",
+     "2026-11-19"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95469,
+     "name": "Evening Program"
+    }
+   ]
+  },
+  {
+   "id": 4024361,
+   "title": "St. Joseph EarlyON (Evening).",
+   "start": "2026-09-17T16:30",
+   "end": "2026-09-17T19:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-06-30",
+    "interval": "1",
+    "exclude": [
+     "2025-12-11",
+     "2025-12-25",
+     "2026-01-01",
+     "2026-01-08",
+     "2026-01-22",
+     "2026-01-29",
+     "2026-02-12",
+     "2026-02-26",
+     "2026-01-15",
+     "2026-03-12",
+     "2026-03-26",
+     "2026-04-09",
+     "2026-04-23",
+     "2026-05-14",
+     "2026-05-28",
+     "2026-04-30",
+     "2026-06-03",
+     "2026-06-11",
+     "2026-06-25"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95469,
+     "name": "Evening Program"
+    }
+   ]
+  },
+  {
+   "id": 3983024,
+   "title": "Wildwood @ South Potters.",
+   "start": "2026-09-18T09:30",
+   "end": "2026-09-18T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "South Potters Creek Conservation Area",
+    "address": "2056 Old Highway 2, Belleville, ON K8N 4Z2, Canada",
+    "lat": 44.1385474,
+    "lng": -77.4294171
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-11-20"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3983008,
+   "title": "Marmora EarlyON Program.",
+   "start": "2026-09-18T09:30",
+   "end": "2026-09-18T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Marmora Pentecostal Church",
+    "address": "53 Madoc St, Marmora, ON K0K 2M0, Canada",
+    "lat": 44.486661,
+    "lng": -77.678112
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-23",
+    "interval": "1",
+    "exclude": [
+     "2026-09-07",
+     "2026-10-12",
+     "2026-09-14",
+     "2026-10-02",
+     "2026-11-20",
+     "2026-10-23"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 4061803,
+   "title": "Daddy N Me.",
+   "start": "2026-09-22T16:30",
+   "end": "2026-09-22T19:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "1",
+    "end": "2026-12-31",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95469,
+     "name": "Evening Program"
+    }
+   ]
+  },
+  {
+   "id": 4024146,
+   "title": "Wildwood @ South Potters",
+   "start": "2026-09-24T09:30",
+   "end": "2026-09-24T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "South Potters Creek Conservation Area",
+    "address": "2056 Old Highway 2, Belleville, ON K8N 4Z2, Canada",
+    "lat": 44.1385474,
+    "lng": -77.4294171
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3983033,
+   "title": "Wildwood Saturdays.",
+   "start": "2026-09-26T09:30",
+   "end": "2026-09-27T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "South Potters Creek Conservation Area",
+    "address": "2056 Old Highway 2, Cannifton, ON K8N 4Z2, Canada",
+    "lat": 44.1380937,
+    "lng": -77.4300774
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "3",
+    "end": "2026-09-26",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 4075176,
+   "title": "Diwali Event @ Zwicks Park",
+   "start": "2026-09-26T12:00",
+   "end": "2026-09-26T13:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Zwicks Park",
+    "address": "10 Bay Bridge Rd, Belleville, ON K8P 3P6, Canada",
+    "lat": 44.15310909999999,
+    "lng": -77.38888879999999
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": []
+  },
+  {
+   "id": 4075164,
+   "title": "St. Joseph EarlyON (Evening).",
+   "start": "2026-10-01T16:30",
+   "end": "2026-10-01T19:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "1",
+    "end": "2026-12-19",
+    "interval": "1",
+    "exclude": [
+     "2026-11-19"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95469,
+     "name": "Evening Program"
+    }
+   ]
+  },
+  {
+   "id": 3983012,
+   "title": "St. Joseph Saturday.",
+   "start": "2026-10-10T09:35",
+   "end": "2026-10-10T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "1",
+    "end": "2026-12-23",
+    "interval": "1",
+    "exclude": [
+     "2026-10-10"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 3747055,
+   "title": "STAT HOLIDAY - ALL PROGRAMS CLOSED",
+   "start": "2026-10-12",
+   "end": "2026-10-12",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 4061804,
+   "title": "Daddy N Me..",
+   "start": "2026-10-13T16:30",
+   "end": "2026-10-13T19:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph Catholic School",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "1",
+    "end": "2026-12-31",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95469,
+     "name": "Evening Program"
+    }
+   ]
+  },
+  {
+   "id": 4101217,
+   "title": "Tweed Public Library Event.",
+   "start": "2026-10-27T10:00",
+   "end": "2026-10-27T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Tweed Public Library",
+    "address": "230 Metcalf St, Tweed, ON K0K 3J0, Canada",
+    "lat": 44.4763629,
+    "lng": -77.3139144
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 4096224,
+   "title": "Infant Massage - Belleville.",
+   "start": "2026-10-29T13:30",
+   "end": "2026-10-29T15:30",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "73 Poplar St, Belleville, ON K8P 4J3, Canada",
+    "lat": 44.1771697,
+    "lng": -77.40436489999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-04",
+    "interval": "1",
+    "exclude": [
+     "2026-11-19"
+    ],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 4116152,
+   "title": "Wildwood Saturdays.",
+   "start": "2026-10-31T09:30",
+   "end": "2026-10-31T12:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "South Potters Creek Conservation Area",
+    "address": "2056 Old Highway 2, Cannifton, ON K8N 4Z2, Canada",
+    "lat": 44.1380937,
+    "lng": -77.4300774
+   },
+   "repeat": {
+    "type": "Month",
+    "advanced": "3",
+    "end": "2026-12-19",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95258,
+     "name": "Wildwood Outdoor Program"
+    }
+   ]
+  },
+  {
+   "id": 4202371,
+   "title": "Park Dale EarlyON (NEW!)",
+   "start": "2026-11-04T09:30",
+   "end": "2026-11-04T13:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "Park Dale Public School",
+    "address": "73 Poplar St, Belleville, ON K8P 4J3, Canada",
+    "lat": 44.1771697,
+    "lng": -77.40436489999999
+   },
+   "repeat": {
+    "type": "Week",
+    "advanced": "",
+    "end": "2026-12-24",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95256,
+     "name": "Morning Indoor Program"
+    }
+   ]
+  },
+  {
+   "id": 4096230,
+   "title": "ALL PROGRAMS CLOSED.",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "time_zone": "America/New_York",
+   "all_day": 1,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "",
+    "address": "",
+    "lat": "",
+    "lng": ""
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95259,
+     "name": "CLOSURES"
+    }
+   ]
+  },
+  {
+   "id": 4117663,
+   "title": "ASQ Connection - 1-4pm",
+   "start": "2026-11-30T13:00",
+   "end": "2026-11-30T16:00",
+   "time_zone": "America/New_York",
+   "all_day": 0,
+   "desc": "",
+   "image": "[]",
+   "venue": {
+    "name": "St. Joseph EarlyON Program",
+    "address": "405 Bridge St E, Belleville, ON K8N 1P7, Canada",
+    "lat": 44.1689898,
+    "lng": -77.35909509999999
+   },
+   "repeat": {
+    "type": "",
+    "advanced": "",
+    "end": "720",
+    "interval": "1",
+    "exclude": [],
+    "additionalDates": []
+   },
+   "categories": [
+    {
+     "id": 95261,
+     "name": "Afternoon Indoor Program"
+    }
+   ]
+  }
+ ]
+}
